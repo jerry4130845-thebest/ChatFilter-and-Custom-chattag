@@ -1,0 +1,500 @@
+# 内置聊天词表
+
+> 数据源：根目录候选词表的第 1–7 节；保留顺序，全部启用。
+
+## 1. 中文直骂与常见变体
+
+- [x] `傻逼`
+- [x] `煞笔`
+- [x] `傻比`
+- [x] `傻B`
+- [x] `沙比`
+- [x] `沙壁`
+- [x] `傻批`
+- [x] `死傻逼`
+- [x] `傻卵`
+- [x] `傻吊`
+- [x] `傻屌`
+- [x] `屌毛`
+- [x] `狗屎`
+- [x] `吃屎去`
+- [x] `滚去吃屎`
+- [x] `你是坨屎`
+- [x] `你就一坨屎`
+- [x] `他妈的`
+- [x] `她妈的`
+- [x] `你妈的`
+- [x] `他马的`
+- [x] `尼玛的`
+- [x] `踏马的`
+- [x] `你特么`
+- [x] `你特喵`
+- [x] `干你娘`
+- [x] `幹你娘`
+- [x] `干你老母`
+- [x] `操你`
+- [x] `草你妈`
+- [x] `艹你妈`
+- [x] `肏你妈`
+- [x] `日你妈`
+- [x] `我操你妈`
+- [x] `操尼玛`
+- [x] `草泥马`
+- [x] `我去你妈的`
+- [x] `去你妈的`
+- [x] `滚你妈的`
+- [x] `死开`
+- [x] `快滚吧`
+- [x] `滚蛋`
+- [x] `滚犊子`
+- [x] `滚一边去`
+- [x] `有多远滚多远`
+- [x] `给爷爬`
+- [x] `你配吗`
+- [x] `你算个屁`
+- [x] `你算个什么东西`
+- [x] `你个屁`
+- [x] `你脑子有病`
+- [x] `脑子进水`
+- [x] `脑子被驴踢了`
+- [x] `脑子被门夹了`
+- [x] `出门没带脑子`
+- [x] `智商欠费`
+- [x] `智障玩意`
+- [x] `脑残玩意`
+- [x] `低能玩意`
+- [x] `废物东西`
+- [x] `死废物`
+- [x] `一群废物`
+- [x] `呆逼`
+- [x] `蠢货`
+- [x] `蠢驴`
+- [x] `蠢猪`
+- [x] `蠢狗`
+- [x] `狗东西`
+- [x] `狗杂种`
+- [x] `狗崽子`
+- [x] `狗娘养的`
+- [x] `人渣`
+- [x] `渣滓`
+- [x] `畜生东西`
+- [x] `真是个畜生`
+- [x] `贱货`
+- [x] `小贱人`
+- [x] `贱种`
+- [x] `死贱人`
+- [x] `婊子`
+- [x] `臭婊子`
+- [x] `婊子养的`
+- [x] `臭不要脸`
+- [x] `死不要脸`
+- [x] `恶心死了`
+- [x] `看见你就恶心`
+- [x] `墙都不扶就服你`
+
+## 2. 针对家人、羞辱和骚扰
+
+- [x] `你妈没了`
+- [x] `你妈死了`
+- [x] `你马没了`
+- [x] `你爸没了`
+- [x] `你爹没了`
+- [x] `你爹死了`
+- [x] `你全家没了`
+- [x] `你全家死了`
+- [x] `死全家`
+- [x] `全家升天`
+- [x] `全家都去死`
+- [x] `全家暴毙`
+- [x] `全家火葬场`
+- [x] `没爹没妈的东西`
+- [x] `没妈的东西`
+- [x] `没妈玩意`
+- [x] `没人教你做人`
+- [x] `没人要的东西`
+- [x] `有娘生没娘养`
+- [x] `有妈生没妈教`
+- [x] `开局先问候你全家`
+- [x] `你是孤儿吧`
+- [x] `孤儿玩意`
+- [x] `你个孤儿`
+- [x] `你个杂种`
+- [x] `你祖坟`
+- [x] `你家祖坟`
+- [x] `你家户口本`
+- [x] `户口本只剩你`
+- [x] `户口本就你一个`
+- [x] `叫爸爸`
+- [x] `给我跪下`
+- [x] `给爷跪下`
+- [x] `给爷磕头`
+- [x] `跪下认错`
+- [x] `你根本不配做人`
+- [x] `全服都讨厌你`
+- [x] `没人想和你玩`
+- [x] `滚出这个服`
+- [x] `滚出这个服务器`
+- [x] `你别再出现了`
+- [x] `脸都不要了`
+- [x] `给我闭嘴`
+- [x] `闭上你的臭嘴`
+- [x] `别狗叫`
+- [x] `不服来单挑`
+- [x] `说话像个小学生`
+
+## 3. Minecraft 对局嘲讽、甩锅和挂人
+
+- [x] `菜就多练`
+- [x] `菜得抠脚`
+- [x] `菜得离谱`
+- [x] `菜得要死`
+- [x] `菜得没眼看`
+- [x] `菜得跟狗一样`
+- [x] `菜成这样`
+- [x] `菜成一坨`
+- [x] `菜鸡互啄`
+- [x] `菜狗`
+- [x] `死菜鸡`
+- [x] `菜逼`
+- [x] `纯菜狗`
+- [x] `你是真菜`
+- [x] `你是真废`
+- [x] `不会玩别玩`
+- [x] `不会打就滚`
+- [x] `别来丢人`
+- [x] `丢人现眼`
+- [x] `别打了卸载吧`
+- [x] `回家种地去`
+- [x] `赶紧卸载游戏`
+- [x] `卸载吧`
+- [x] `别玩这个游戏了`
+- [x] `没赢过吗`
+- [x] `就这水平`
+- [x] `你也就这点本事`
+- [x] `比人机还菜`
+- [x] `不如人机`
+- [x] `人机水平`
+- [x] `白给怪`
+- [x] `你只会送`
+- [x] `你又送`
+- [x] `跟你打必输`
+- [x] `队友全是废物`
+- [x] `队友都是人机`
+- [x] `狗屎队友`
+- [x] `废物队友`
+- [x] `猪队友`
+- [x] `坑货队友`
+- [x] `被队友坑死了`
+- [x] `拖后腿的`
+- [x] `你就是来送的`
+- [x] `你就是个演员`
+- [x] `玩不起别玩`
+- [x] `输不起就滚`
+- [x] `小学生滚`
+- [x] `耍赖狗`
+- [x] `挂狗`
+- [x] `开挂狗`
+- [x] `开挂孤儿`
+- [x] `开挂死全家`
+- [x] `挂逼`
+- [x] `挂比`
+- [x] `作弊狗`
+- [x] `你个作弊狗`
+- [x] `开了还装`
+- [x] `开挂还嘴硬`
+- [x] `开挂还打不过`
+- [x] `全服举报他`
+- [x] `都去举报他`
+- [x] `有本事别开挂`
+- [x] `不举报你跟你姓`
+
+## 4. 定向威胁、隐私骚扰和自伤怂恿
+
+- [x] `你给我去死`
+- [x] `怎么还没去死`
+- [x] `你怎么不去死`
+- [x] `你去死吧`
+- [x] `赶紧去死`
+- [x] `滚去死`
+- [x] `死一边去`
+- [x] `你不配活着`
+- [x] `活着浪费空气`
+- [x] `你不如死了算了`
+- [x] `去自杀`
+- [x] `你就该自杀`
+- [x] `赶紧自杀`
+- [x] `去跳楼`
+- [x] `你怎么还不跳楼`
+- [x] `我去你家打你`
+- [x] `我去你家找你算账`
+- [x] `我就在你家楼下等你`
+- [x] `线下等着挨打`
+- [x] `现实中弄死你`
+- [x] `现实里弄死你`
+- [x] `现实里我会杀了你`
+- [x] `找人打断你的腿`
+- [x] `要打断你的腿`
+- [x] `我去砸你家`
+- [x] `我要发你住址`
+- [x] `我把你住址挂出来`
+- [x] `我把你身份证发出来`
+- [x] `给你开盒`
+- [x] `我把你开了盒`
+- [x] `马上开你盒`
+- [x] `我要让全服知道你电话`
+- [x] `我要曝光你的隐私`
+- [x] `等着被网暴`
+- [x] `你等着被人肉`
+- [x] `我把你人肉出来`
+
+## 5. 英文辱骂与对局嘲讽
+
+- [x] `fuck you`
+- [x] `fuck off`
+- [x] `go fuck yourself`
+- [x] `get the fuck out`
+- [x] `shut the fuck up`
+- [x] `who the fuck asked`
+- [x] `you fucking suck`
+- [x] `fucking idiot`
+- [x] `fucking moron`
+- [x] `fucking loser`
+- [x] `fucking noob`
+- [x] `fucking trash`
+- [x] `fucking clown`
+- [x] `dumb as fuck`
+- [x] `trash as fuck`
+- [x] `piece of shit`
+- [x] `eat shit`
+- [x] `go eat shit`
+- [x] `you little shit`
+- [x] `you are shit`
+- [x] `you're shit`
+- [x] `shit player`
+- [x] `shit team`
+- [x] `shit teammate`
+- [x] `son of a bitch`
+- [x] `little bitch`
+- [x] `cry like a bitch`
+- [x] `you stupid bitch`
+- [x] `bitch ass`
+- [x] `asshole`
+- [x] `motherfucker`
+- [x] `dumbass`
+- [x] `dipshit`
+- [x] `shithead`
+- [x] `dickhead`
+- [x] `douchebag`
+- [x] `jackass`
+- [x] `dumbfuck`
+- [x] `brain-dead idiot`
+- [x] `brain dead idiot`
+- [x] `absolute moron`
+- [x] `absolute idiot`
+- [x] `complete idiot`
+- [x] `you are a moron`
+- [x] `you're a moron`
+- [x] `you are an idiot`
+- [x] `you're an idiot`
+- [x] `learn to play`
+- [x] `uninstall the game`
+- [x] `uninstall minecraft`
+- [x] `please uninstall`
+- [x] `quit the game`
+- [x] `go back to creative`
+- [x] `you are trash`
+- [x] `you're trash`
+- [x] `ur trash`
+- [x] `trash player`
+- [x] `such a noob`
+- [x] `noob team`
+- [x] `noob teammate`
+- [x] `pathetic loser`
+- [x] `huge loser`
+- [x] `get good`
+- [x] `git gud`
+- [x] `get rekt`
+- [x] `you got rekt`
+- [x] `get wrecked`
+- [x] `sit down kid`
+- [x] `you play like a bot`
+- [x] `worse than a bot`
+- [x] `boosted noob`
+- [x] `boosted loser`
+- [x] `carried noob`
+- [x] `you got carried`
+- [x] `zero skill`
+- [x] `no skill`
+- [x] `skill issue`
+- [x] `imagine losing`
+- [x] `stay mad`
+- [x] `cry more`
+- [x] `cope harder`
+- [x] `seethe harder`
+- [x] `hold this L`
+- [x] `take the L`
+- [x] `gg ez`
+- [x] `ez win`
+- [x] `easy win noobs`
+- [x] `too easy noobs`
+- [x] `ez clap`
+- [x] `free win noobs`
+- [x] `hacking loser`
+- [x] `cheating loser`
+- [x] `cheating scum`
+- [x] `dirty cheater`
+- [x] `report this clown`
+- [x] `everyone report him`
+- [x] `shut up kid`
+- [x] `nobody likes you`
+- [x] `nobody wants you here`
+- [x] `leave the server loser`
+
+## 6. 英文威胁、仇恨辱称与擦边/诈骗引流
+
+- [x] `kill yourself`
+- [x] `go kill yourself`
+- [x] `you should kill yourself`
+- [x] `go die`
+- [x] `go die in a hole`
+- [x] `i hope you die`
+- [x] `you deserve to die`
+- [x] `nobody cares if you die`
+- [x] `i will kill you in real life`
+- [x] `i'll kill you irl`
+- [x] `i know where you live`
+- [x] `i will dox you`
+- [x] `i'll doxx you`
+- [x] `i'll leak your address`
+- [x] `i'll leak your phone number`
+- [x] `your whole family should die`
+- [x] `i hope your family dies`
+- [x] `faggot`
+- [x] `tranny`
+- [x] `retard`
+- [x] `nigger`
+- [x] `chink`
+- [x] `kike`
+- [x] `spic`
+- [x] `gook`
+- [x] `dyke`
+- [x] `coon`
+- [x] `支那猪`
+- [x] `日本鬼子滚出去`
+- [x] `黑鬼滚`
+- [x] `死基佬`
+- [x] `同性恋都去死`
+- [x] `send nudes`
+- [x] `send me nudes`
+- [x] `show me your nudes`
+- [x] `dm me for nudes`
+- [x] `加我发裸照`
+- [x] `给我发裸照`
+- [x] `发你裸照`
+- [x] `加我看黄图`
+- [x] `私聊发黄图`
+- [x] `想看黄图加我`
+- [x] `免费领正版账号`
+- [x] `免费领微软正版账号`
+- [x] `免费代领披风`
+- [x] `扫码免费领披风`
+- [x] `提供验证码领披风`
+- [x] `发验证码领取`
+- [x] `把登录验证码发我`
+- [x] `把微软验证码发我`
+- [x] `把微软账号密码发我`
+- [x] `私聊发送账号密码`
+- [x] `扫码登录领取皮肤`
+- [x] `click here for free minecoins`
+- [x] `send me your microsoft login`
+- [x] `send me the verification code`
+- [x] `send me your recovery code`
+- [x] `free cape if you verify`
+- [x] `free minecraft account generator`
+- [x] `free minecoins generator`
+- [x] `scan this qr code for a free cape`
+
+## 7. 短缩写、拼音和高误伤候选：仅考虑整句
+
+- [x] `SB`
+- [x] `sb`
+- [x] `s b`
+- [x] `s.b`
+- [x] `s*b`
+- [x] `2b`
+- [x] `250`
+- [x] `cnm`
+- [x] `CNM`
+- [x] `cnmd`
+- [x] `nmsl`
+- [x] `NMSL`
+- [x] `n m s l`
+- [x] `tmd`
+- [x] `tm的`
+- [x] `md`
+- [x] `wdnmd`
+- [x] `wcnm`
+- [x] `gtnnd`
+- [x] `nmgb`
+- [x] `nbm`
+- [x] `zz`
+- [x] `nt`
+- [x] `lj`
+- [x] `fw`
+- [x] `爬`
+- [x] `滚`
+- [x] `呵呵`
+- [x] `就这`
+- [x] `急了`
+- [x] `破防了`
+- [x] `典`
+- [x] `笑死`
+- [x] `小丑`
+- [x] `菜鸡`
+- [x] `废物`
+- [x] `蠢逼`
+- [x] `辣鸡`
+- [x] `乐色`
+- [x] `kys`
+- [x] `KYS`
+- [x] `k y s`
+- [x] `k.y.s`
+- [x] `stfu`
+- [x] `STFU`
+- [x] `s t f u`
+- [x] `gtfo`
+- [x] `GTFO`
+- [x] `fu`
+- [x] `f u`
+- [x] `f*ck`
+- [x] `f u c k`
+- [x] `idgaf`
+- [x] `fk u`
+- [x] `fck u`
+- [x] `fk off`
+- [x] `kma`
+- [x] `smd`
+- [x] `l2p`
+- [x] `bad`
+- [x] `loser`
+- [x] `clown`
+- [x] `noobs`
+- [x] `n00b`
+- [x] `n o o b`
+- [x] `trash`
+- [x] `bot`
+- [x] `dogwater`
+- [x] `dog water`
+- [x] `b0t`
+- [x] `smurf`
+- [x] `garbage`
+- [x] `rekt`
+- [x] `bozo`
+- [x] `ezpz`
+- [x] `e z`
+- [x] `ezz`
+- [x] `ezzz`
+- [x] `ggez`
+- [x] `GG EZ`
+- [x] `ez pz`
+- [x] `EZZZ`

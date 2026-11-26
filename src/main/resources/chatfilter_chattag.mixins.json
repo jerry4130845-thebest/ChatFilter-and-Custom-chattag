@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.chatfilter.chattag.mixin.client",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "ChatListenerMixin",
+    "EditBoxMixin",
+    "MultiLineEditBoxMixin",
+    "MultilineTextFieldMixin",
+    "TextFieldHelperMixin",
+    "BookEditScreenMixin",
+    "ClientPacketListenerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
